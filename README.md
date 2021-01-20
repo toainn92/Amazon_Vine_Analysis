@@ -20,3 +20,4 @@ Using PySpark, the results are shown below:
   - There are 0 percentage of Vine reviews with 5 stars and 37.4% of non-Vine reviews with 5 stars.
 
 ## Summary
+Based on this analysis, there are zero vine reviews for the Digital Video Games dataset. As a result, there is no enough data to determine if there is a positivity bias for reviews in the Vine program. Another analysis to do with the dataset is to determine the impact and bias between the 5 star rating vs. verified pruchased.
