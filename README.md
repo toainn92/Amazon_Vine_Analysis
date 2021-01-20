@@ -8,7 +8,7 @@ The following dataset for Digital Video Games were used in this analysis: https:
 
 Using PySpark, the results are shown below:
 
-[]!(Resources/Total_reviews.png)
+![](Resources/Total_reviews.PNG)
 
 - How many Vine Reviews and non-Vine reviews were there?
 
