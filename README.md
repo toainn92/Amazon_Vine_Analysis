@@ -14,9 +14,9 @@ Using PySpark, the results are shown below:
   - There are a total of 0 Vine reviews and 1685 Non-Vine reviews
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-  -There are 0 Vine reviews with 5 stars and 631 Non-Vine reviews with 5 stars.
+  - There are 0 Vine reviews with 5 stars and 631 Non-Vine reviews with 5 stars.
   
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-  -There are 0 percentage of Vine reviews with 5 stars and 37.4% of non-Vine reviews with 5 stars.
+  - There are 0 percentage of Vine reviews with 5 stars and 37.4% of non-Vine reviews with 5 stars.
 
 ## Summary
